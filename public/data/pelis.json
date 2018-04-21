@@ -3,42 +3,49 @@
     "title": "Bagdad Café",
     "director": "Percy Adlon",
     "year": 1987,
-    "img": "http://blogs.diariovasco.com/fotograma/wp-content/uploads/sites/71/2016/03/Bagdad-Cafe.jpg"
+    "img": "http://blogs.diariovasco.com/fotograma/wp-content/uploads/sites/71/2016/03/Bagdad-Cafe.jpg",
+    "score": 10
   },
   {
     "title": "The Bronze",
     "director": "Bryan Buckley",
     "year": 2015,
-    "img": "https://revista.tviso.com/wp-content/uploads/2016/10/bronz.jpg"
+    "img": "https://revista.tviso.com/wp-content/uploads/2016/10/bronz.jpg",
+    "score": 5
   },
   {
     "title": "Three Billboards Outside Ebbing, Missouri",
     "director": "Martin McDonagh",
     "year": "2017",
-    "img": "https://theplaylist.net/wp-content/uploads/2018/01/three-billboards-outside-ebbi-1200x520.jpg"
+    "img": "https://theplaylist.net/wp-content/uploads/2018/01/three-billboards-outside-ebbi-1200x520.jpg",
+    "score": 9
   },
   {
     "title": "Mononoke Hime",
     "director": "Hayao Miyazaki",
     "year": 1997,
-    "img": "https://i.ytimg.com/vi/ZfSCrUpQ2JY/maxresdefault.jpg"
+    "img": "https://i.ytimg.com/vi/ZfSCrUpQ2JY/maxresdefault.jpg",
+    "score": 7
   },
   {
     "title": "Mad Max: Fury Road",
     "director": "George Miller",
     "year": 2015,
-    "img": "https://vignette.wikia.nocookie.net/roadwarrior/images/2/28/The_Gardening_Mothers.PNG/revision/latest?cb=20150604170912"
+    "img": "https://vignette.wikia.nocookie.net/roadwarrior/images/2/28/The_Gardening_Mothers.PNG/revision/latest?cb=20150604170912",
+    "score": 4
   },
   {
     "title": "The Matrix",
     "director": "Wachowski Brothers",
     "year": 1999,
-    "img": "https://i.ytimg.com/vi/rSRH6-6rqdg/maxresdefault.jpg"
+    "img": "https://i.ytimg.com/vi/rSRH6-6rqdg/maxresdefault.jpg",
+    "score": 3
   },
   {
     "title": "La Leyenda del Perro Amarillo",
     "director": "Byambasuren Davaa",
     "year": 2005,
-    "img": "http://www.rosariocine.com.ar/info/2365b.jpg"
+    "img": "http://www.rosariocine.com.ar/info/2365b.jpg",
+    "score": 4
   }
 ]
