@@ -5,7 +5,7 @@
       <movie-card v-for="movie in orderedMovies" :key="movie.title" :movie="movie"></movie-card>
     </div>
     <div class="fixed-btn">
-      <button v-on:click="getJSON()" type="button" name="button">Obtener JSON</button>
+      <a v-on:click="getJSON()" type="button" name="button">Obtener JSON</a>
     </div>
   </div>
 </template>
@@ -36,7 +36,8 @@ export default {
   methods: {
     getJSON () {
       const jsonData = JSON.stringify(this.movies, undefined, 2);
-      alert(jsonData)
+      alert('json en consola js')
+      console.log(jsonData)
     }
   },
   created: function () {
@@ -55,6 +56,13 @@ export default {
 </script>
 
 <style lang="scss">
+body {
+  background-color: black;
+  color: white;
+  h1 {
+    color: yellow;
+  }
+}
 .movie-app {
   .movie-grid {
     display: flex;
@@ -65,8 +73,13 @@ export default {
   }
   .fixed-btn {
     position: fixed;
-    top: 30px;
+    bottom: 30px;
     right: 50px;
+    a {
+      background-color: yellow;
+      color: black;
+      padding: 5px 10px;
+    }
   }
 }
 </style>

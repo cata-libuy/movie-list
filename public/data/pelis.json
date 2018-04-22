@@ -4,42 +4,42 @@
     "director": "Percy Adlon",
     "year": 1987,
     "img": "http://blogs.diariovasco.com/fotograma/wp-content/uploads/sites/71/2016/03/Bagdad-Cafe.jpg",
-    "score": 10
+    "score": 15
   },
   {
     "title": "The Bronze",
     "director": "Bryan Buckley",
     "year": 2015,
     "img": "https://revista.tviso.com/wp-content/uploads/2016/10/bronz.jpg",
-    "score": 6
+    "score": 13
   },
   {
     "title": "Three Billboards Outside Ebbing, Missouri",
     "director": "Martin McDonagh",
     "year": "2017",
     "img": "https://theplaylist.net/wp-content/uploads/2018/01/three-billboards-outside-ebbi-1200x520.jpg",
-    "score": 9
+    "score": 14
   },
   {
     "title": "Mononoke Hime",
     "director": "Hayao Miyazaki",
     "year": 1997,
     "img": "https://i.ytimg.com/vi/ZfSCrUpQ2JY/maxresdefault.jpg",
-    "score": 7
+    "score": 12
   },
   {
     "title": "Mad Max: Fury Road",
     "director": "George Miller",
     "year": 2015,
     "img": "https://vignette.wikia.nocookie.net/roadwarrior/images/2/28/The_Gardening_Mothers.PNG/revision/latest?cb=20150604170912",
-    "score": 4
+    "score": 5
   },
   {
     "title": "The Matrix",
     "director": "Wachowski Brothers",
     "year": 1999,
     "img": "https://i.ytimg.com/vi/rSRH6-6rqdg/maxresdefault.jpg",
-    "score": 3
+    "score": 6
   },
   {
     "title": "La Leyenda del Perro Amarillo",
@@ -88,13 +88,13 @@
     "director": "Steven Spielberg",
     "year": 2001,
     "img": "https://i.ytimg.com/vi/I4H2E2YfM_Y/maxresdefault.jpg",
-    "score": 8
+    "score": 7
   },
   {
     "title": "Blood Diamond",
     "director": "Edward Zick",
     "year": 2007,
-    "score": 5,
+    "score": 6,
     "img": "https://images2.vudu.com/background/69560-1280a.jpg"
   },
   {
@@ -117,6 +117,55 @@
     "year": 2014,
     "score": 8,
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSkMqIckRs9PVCRD4wnzvs8V7d3AAiGkCMiOj7Vdy054JkjUVxiQ"
+  },
+  {
+    "title": "Silver Linings Playbook",
+    "director": "David O. Russel",
+    "year": 2012,
+    "score": 6,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWglREW-o5w8YZ7BS6CGlwnOc-ZuYBIm9IX4vA8neaQJPy8vi0"
+  },
+  {
+    "title": "La Princesa y el Guerrero",
+    "director": "Tom Tykwer",
+    "year": 2000,
+    "score": 4,
+    "img": "http://www.cine365static.com/assets/img/peliculas/1487/0/extra/1d8b9-princesa5.jpg"
+  },
+  {
+    "title": "Whisky",
+    "director": "Juan Pablo Rebella",
+    "year": 2004,
+    "score": 6,
+    "img": "https://cronomelian.files.wordpress.com/2010/03/articles-68335_whisky4.jpeg"
+  },
+  {
+    "title": "La Nana",
+    "director": "Sebastián Silva",
+    "year": 2009,
+    "score": 8,
+    "img": "data:image/jpeg;base64,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"
+  },
+  {
+    "title": "Jodorowsky's Dune",
+    "director": "Frank Pavich",
+    "year": 2013,
+    "score": 5,
+    "img": "http://losdespertadores.com/wp-content/uploads/2016/06/jodorowskys-dune.jpg"
+  },
+  {
+    "title": "El Topo",
+    "director": "Alejandro Jodorowsky",
+    "year": 1970,
+    "score": 8,
+    "img": "http://cinemadiscourse.com/wp-content/uploads/2014/03/eltopo13.jpg"
+  },
+  {
+    "title": "Les Triplettes de Belleville",
+    "director": "Sylvain Chomet",
+    "year": 2003,
+    "score": 5,
+    "img": "http://chulavista.mx/wp-content/uploads/2014/07/triplettesBelleville.jpg"
   }
 
 ]
