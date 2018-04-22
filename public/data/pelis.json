@@ -11,7 +11,7 @@
     "director": "Bryan Buckley",
     "year": 2015,
     "img": "https://revista.tviso.com/wp-content/uploads/2016/10/bronz.jpg",
-    "score": 5
+    "score": 6
   },
   {
     "title": "Three Billboards Outside Ebbing, Missouri",
@@ -46,6 +46,63 @@
     "director": "Byambasuren Davaa",
     "year": 2005,
     "img": "http://www.rosariocine.com.ar/info/2365b.jpg",
-    "score": 4
+    "score": 5
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Quentin Tarantino",
+    "year": 1994,
+    "img": "http://www.elcomercio.es/ideal/noticias/201512/18/media/cortadas/pulp--575x323.jpg",
+    "score": 8
+  },
+  {
+    "title": "La Danza de la Realidad",
+    "director": "Alejandro Jodorowsky",
+    "year": 2003,
+    "img": "http://www.theclinic.cl/wp-content/uploads/2015/03/la-danza-de-la-realidad.png",
+    "score": 9
+  },
+  {
+    "title": "Blade Runner",
+    "director": "Ridley Scott",
+    "year": 1982,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXbKfQTEkBpdQr2WRaeHGf2-nZFL-y44hBgfZyW0CSNmUR2f-khg",
+    "score": 5
+  },
+  {
+    "title": "Blade Runner 2049",
+    "director": "Denis Villeneuve",
+    "year": 2017,
+    "img": "http://dazedimg.dazedgroup.netdna-cdn.com/900/azure/dazed-prod/1220/0/1220762.jpg",
+    "score": 7
+  },
+  {
+    "title": "Gattaca",
+    "director": "Andrew Niccol",
+    "year": 1997,
+    "img": "http://wallscover.com/images/gattaca-wallpaper-20.jpg",
+    "score": 3
+  },
+  {
+    "title": "Catch me if you can",
+    "director": "Steven Spielberg",
+    "year": 2001,
+    "img": "https://i.ytimg.com/vi/I4H2E2YfM_Y/maxresdefault.jpg",
+    "score": 8
+  },
+  {
+    "title": "Blood Diamond",
+    "director": "Edward Zick",
+    "year": 2007,
+    "score": 5,
+    "img": "https://images2.vudu.com/background/69560-1280a.jpg"
+  },
+  {
+    "title": "Twelve Monkeys",
+    "director": "Terry Gilliam",
+    "year": 1995,
+    "score": 6,
+    "img": "http://www.austinchronicle.com/binary/8839/SS.12Monkeys.jpg"
   }
+
 ]
