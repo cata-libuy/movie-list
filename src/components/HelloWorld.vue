@@ -8,6 +8,7 @@
           <p> {{ movie.director }} - {{ movie.year }} </p>
           <div class="score-container">
             <a class="score score-down" v-on:click="downScore(movie)">-</a>
+            <div class="counter">{{ movie.score }}</div>
             <a class="score score-up" v-on:click="upScore(movie)">+</a>
           </div>
         </div>
@@ -32,7 +33,7 @@ export default {
   },
   methods: {
     getBackgroundImage (movie) {
-      return movie.img ? `url(${movie.img})` : 'url(http://linda-hoang.com/wp-content/uploads/2014/11/img-placeholder-dark.jpg)' 
+      return movie.img ? `url(${movie.img})` : 'url(http://linda-hoang.com/wp-content/uploads/2014/11/img-placeholder-dark.jpg)'
     },
     upScore (movie) {
       movie.score++
