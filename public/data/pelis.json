@@ -67,14 +67,14 @@
     "director": "Ridley Scott",
     "year": 1982,
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXbKfQTEkBpdQr2WRaeHGf2-nZFL-y44hBgfZyW0CSNmUR2f-khg",
-    "score": 5
+    "score": 6
   },
   {
     "title": "Blade Runner 2049",
     "director": "Denis Villeneuve",
     "year": 2017,
     "img": "http://dazedimg.dazedgroup.netdna-cdn.com/900/azure/dazed-prod/1220/0/1220762.jpg",
-    "score": 7
+    "score": 6
   },
   {
     "title": "Gattaca",
@@ -101,7 +101,7 @@
     "title": "Twelve Monkeys",
     "director": "Terry Gilliam",
     "year": 1995,
-    "score": 6,
+    "score": 7,
     "img": "http://www.austinchronicle.com/binary/8839/SS.12Monkeys.jpg"
   },
   {
@@ -166,6 +166,26 @@
     "year": 2003,
     "score": 5,
     "img": "http://chulavista.mx/wp-content/uploads/2014/07/triplettesBelleville.jpg"
+  },
+  {
+    "title": "El Club",
+    "director": "Pablo Larraín",
+    "year": 2015,
+    "score": 6,
+    "img": "https://www.blahcultural.com/wp-content/uploads/2015/06/the-club_2.jpg"
+  },
+  {
+    "title": "The Wind That Shakes the Barley",
+    "director": "Ken Loach",
+    "year": 2006,
+    "score": 3,
+    "img": "http://rarefilm.net/wp-content/uploads/2015/09/The-Wind-that-Shakes-the-Barley-2006-2.jpg"
+  },
+  {
+    "title": "Million Dollar Baby",
+    "director": "Clint Eastwood",
+    "year": 2004,
+    "score": 6,
+    "img": "http://www.dvdizzy.com/images/m/milliondollarbaby-04.jpg"
   }
-
 ]
