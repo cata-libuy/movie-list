@@ -5,7 +5,8 @@ Tarea de la U consistente en leer y desplegar datos desde un archivo con formato
 
 Se resuelve con un front end hecho en Vue.js, que al iniciarse llama a un json que se aloja en la carpeta publica del mismo repositorio.
 
-Una vez desplegada la info en pantalla, se puede manipular el puntaje de las películas, sin alterar los datos (al recargar vuelve al json original).
+Una vez desplegada la info en pantalla, se puede manipular el puntaje de las películas, e imprimir por consola un json con los puntajes modificados. Al recargar la página vuelve al json original.
+
 
 ## Para instalar y correr local
 * clonar o descargar repositorio
