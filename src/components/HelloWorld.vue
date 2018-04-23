@@ -68,8 +68,13 @@ body {
   }
   .fixed-btn {
     position: fixed;
-    top: 30px;
     right: 50px;
+    @media (min-width: 768px) {
+      top: 30px;
+    }
+    @media (max-width: 768px) {
+      bottom: 30px;
+    }
     a {
       background-color: yellow;
       color: black;

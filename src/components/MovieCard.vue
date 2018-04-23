@@ -43,6 +43,9 @@ export default {
   align-items: center;
   text-align: center;
   cursor: default;
+  @media (max-width: 768px) {
+    width: 100%;
+  }
   .details {
     opacity: 0;
     transition: opacity 1s;
